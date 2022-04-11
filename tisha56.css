@@ -1,0 +1,23 @@
+#border{
+    margin: 15px;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+    border: 2px salmon;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+#border :hover{
+    background-color:rgb(33, 30, 180);
+    border: 2px solid rgb(12, 12, 12);
+}
+
+
+
+
+
+
+
+
+    
+    
